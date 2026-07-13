@@ -18,6 +18,7 @@ class Solution {
                     } else {
                         
                         s = s.substring(0, i);
+                        break;
                     }
             }
         }
