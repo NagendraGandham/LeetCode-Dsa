@@ -7,11 +7,14 @@ class Solution {
                 s = str;
             }
         }
+
+        
         System.out.println(s);
         for (String str : strs) {
-            for (int i = 0; i < str.length() ; i++) {
+            char[] ch=str.toCharArray();
+            for (int i = 0; i < ch.length ; i++) {
                 if (s.length() > i) {
-                    if (s.charAt(i) == (str.charAt(i))) {
+                    if (s.charAt(i) == (ch[i])) {
                         continue;
                     } else {
                         
