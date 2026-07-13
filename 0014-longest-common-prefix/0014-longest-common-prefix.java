@@ -3,7 +3,7 @@ class Solution {
         String s=strs[0];
         for(String str:strs){
             int i=0;
-            if(str==""){
+            if(str.isEmpty()){
                 return "";
             }
             while(i<str.length() && s.length()>i){
