@@ -12,15 +12,13 @@ class Solution {
         System.out.println(s);
         for (String str : strs) {
             char[] ch=str.toCharArray();
-            for (int i = 0; i < ch.length ; i++) {
-                if (s.length() > i) {
+            for (int i = 0; s.length() > i && i < ch.length ; i++) {
                     if (s.charAt(i) == (ch[i])) {
                         continue;
                     } else {
                         
                         s = s.substring(0, i);
                     }
-                }
             }
         }
         return s;
