@@ -3,11 +3,7 @@ class Solution {
         
         String s = strs[0];
 
-        for (String str : strs) {
-            if (str.length() < s.length()) {
-                s = str;
-            }
-        }
+        
 
         
         System.out.println(s);
@@ -23,6 +19,9 @@ class Solution {
                         s = s.substring(0, i);
                         break;
                     }
+            }
+            if(s.length()>str.length()){
+                s=str;
             }
         }
         return s;
