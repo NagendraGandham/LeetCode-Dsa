@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0509-fibonacci-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0022-generate-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
