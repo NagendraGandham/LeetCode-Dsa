@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0680-valid-palindrome-ii](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0796-rotate-string) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
