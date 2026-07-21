@@ -5,7 +5,6 @@ class Solution {
         for(int i=0;i<prices.length;i++){
             if(prices[i]<min){
                 min=prices[i];
-                System.out.println(min);
             }
             if(profit<prices[i]-min){
                 profit=prices[i]-min;
