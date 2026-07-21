@@ -3,7 +3,6 @@ class Solution {
         int count=1;
         int element=nums[0];
         for(int i=1;i<nums.length;i++){
-           
             if(nums[i]==element){
                 count++;
             }
@@ -14,7 +13,6 @@ class Solution {
                 element=nums[i];
                 count++;
             }
-
         }
         return element;
     }
