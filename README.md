@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [0450-delete-node-in-a-bst](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Trie
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
