@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0169-majority-element) |
+| [0704-binary-search](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
