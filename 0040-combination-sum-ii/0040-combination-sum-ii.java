@@ -1,7 +1,11 @@
 class Solution {
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
+        
         Arrays.sort(candidates);
         List<List<Integer>> list=new ArrayList<>();
+        if(target==0){
+            return list;
+        }
         combination(candidates,new ArrayList<>(),list,0,target);
         return list;
     }
