@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0704-binary-search) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0509-fibonacci-number) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0169-majority-element) |
 ## Counting
 |  |
