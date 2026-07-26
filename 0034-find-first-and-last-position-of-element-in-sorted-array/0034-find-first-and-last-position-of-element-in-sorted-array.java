@@ -5,7 +5,7 @@ class Solution {
             return new int[]{-1,-1};
         }
         int last=binarySearch(nums,target);
-        return new int[]{first,last};
+        return new int[]{first,last-1};
     }
 
     int binarySearch(int[] nums,int target){
@@ -20,7 +20,7 @@ class Solution {
                 low=mid+1;
             }
         }
-        return high;
+        return low;
     }
 
     int binarySearchLB(int[] nums,int target){
