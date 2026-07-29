@@ -7,12 +7,10 @@ class Solution {
                 count++;
                 max=Math.max(count,max);
             }
-            else if(s.charAt(i)==')'){
+            else if(s.charAt(i)==')')
                 count--;
-            }
-            else{
+            else
                 continue;
-            }
         }
         return max;
     }
