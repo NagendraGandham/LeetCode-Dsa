@@ -1,13 +1,12 @@
 class Solution {
     public void nextPermutation(int[] nums) {
         int i=nums.length-1;
+        int j=nums.length-1;
+        int k=0;
         while(i>0 && nums[i]<=nums[i-1]){
             i--;
         }
         if(i==0){
-            int k=0;
-            System.out.println("reverse");
-            int j=nums.length-1;
             while(k<j){
                 int temp=nums[k];
                 nums[k]=nums[j];
@@ -18,10 +17,9 @@ class Solution {
             return;
         }
         int min=i;
-        for(int j=i+1;j<nums.length;j++){
+        for( j=i+1;j<nums.length;j++){
             System.out.println(j);
             if(nums[j]>nums[i-1]){
-                System.out.println("kk");
                 min=j;
             }
         }
@@ -30,11 +28,11 @@ class Solution {
         nums[i-1]=nums[min];       
         nums[min]=temp;
 
-    int k=nums.length-1;
+    k=nums.length-1;
     while(i<k){
-        int tep=nums[k];
+        temp=nums[k];
         nums[k]=nums[i];
-        nums[i]=tep;
+        nums[i]=temp;
         i++;
         k--;
     }
