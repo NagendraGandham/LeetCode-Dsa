@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0796-rotate-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
 | ------- |
