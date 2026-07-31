@@ -20,7 +20,7 @@ class Solution {
                     map.put(nums2[i],-1);
                 }
                 else{
-                        map.put(nums2[i],stack.peekFirst());
+                    map.put(nums2[i],stack.peekFirst());
                     stack.push(nums2[i]);
                 }
             }
