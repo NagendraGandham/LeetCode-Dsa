@@ -4,8 +4,8 @@ class Solution {
         int maxf=0;
         int[] arr=new int[26];
         int left=0;
-        int right;
-        for(right=0;right<s.length();right++){
+       
+        for( int right=0;right<s.length();right++){
             arr[s.charAt(right)-'A']++;
             maxf=Math.max(maxf,arr[s.charAt(right)-'A']);
             while((right-left+1)-maxf > k){
