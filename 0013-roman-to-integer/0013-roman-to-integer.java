@@ -4,8 +4,8 @@ class Solution {
         int num=0;
         for(int i=0;i<s.length();i++){
             if(i<s.length()-1 && map.get(s.charAt(i))<map.get(s.charAt(i+1))){
-                 num+=map.get(s.charAt(i+1))-map.get(s.charAt(i));
-                i++;
+                 num-=map.get(s.charAt(i));
+            
             }
             else
             num+=map.get(s.charAt(i));
