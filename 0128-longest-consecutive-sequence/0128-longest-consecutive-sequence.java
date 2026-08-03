@@ -12,12 +12,10 @@ class Solution {
         int prev=map.firstKey()-1;
         for(Map.Entry<Integer,Integer> m:map.entrySet())
         {
-                System.out.println(m.getKey()+" "+prev+" "+count);
             if(prev+1==m.getKey()){
                 count++;
             }
             else{
-                System.out.println(count+' ');
                 max=Math.max(count,max);
                 count=1;
             }
