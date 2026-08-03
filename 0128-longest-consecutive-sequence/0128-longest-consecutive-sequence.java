@@ -6,22 +6,28 @@ class Solution {
         if(nums.length<2){
             return 1;
         }
-        TreeMap<Integer, Integer> map = new TreeMap<>();
+        HashSet<Integer> set = new HashSet<>();
         for (int i : nums) {
-            map.put(i, 1);
+            set.add(i);
         }
         int max = 1;
-        int count = 0;
-        int prev = map.firstKey() - 1;
-        for (Map.Entry<Integer, Integer> m : map.entrySet()) {
-            if (prev + 1 == m.getKey()) {
-                count++;
-            } else {
-                max = Math.max(count, max);
-                count = 1;
+        int count = 1;
+        for (int i:set) {
+            int key=i+1;
+            if(!set.contains(key-2)){
+            while(true){
+                if(set.contains(key)){
+                    count++;
+                    key++;
+                }
+                else{
+                    max=Math.max(count,max);
+                    count=1;
+                    break;
+                }
             }
-            prev = m.getKey();
+            }
         }
-        return Math.max(max, count);
+        return max;
     }
 }
