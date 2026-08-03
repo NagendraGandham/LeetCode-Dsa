@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0169-majority-element) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0205-isomorphic-strings) |
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0877-stone-game) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
