@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0136-single-number) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0141-linked-list-cycle) |
 | [0680-valid-palindrome-ii](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0876-middle-of-the-linked-list) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0242-valid-anagram) |
 ## Binary Search Tree
