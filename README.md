@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0877-stone-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -217,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0496-next-greater-element-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
