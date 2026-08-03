@@ -13,8 +13,9 @@ class Solution {
         int max = 1;
         int count = 1;
         for (int i:set) {
-            int key=i+1;
-            if(!set.contains(key-2)){
+            
+            if(!set.contains(i-1)){
+                int key=i+1;
             while(true){
                 if(set.contains(key)){
                     count++;
