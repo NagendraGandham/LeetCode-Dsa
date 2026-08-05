@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/1004-max-consecutive-ones-iii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/1004-max-consecutive-ones-iii) |
 ## String Matching
 |  |
