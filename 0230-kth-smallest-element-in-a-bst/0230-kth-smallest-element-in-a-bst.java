@@ -16,7 +16,7 @@
 class Solution {
     public int kthSmallest(TreeNode root, int k) {
         int[] num=new int[]{0};
-        smallest(root,k,num,new int[]{0});
+        smallest(root,k,num,new int[]{k});
         return num[0];
     }
 
@@ -25,7 +25,7 @@ class Solution {
             return;
         }
         smallest(root.left,k,m,n);
-        if(n[0]++==k-1){
+        if(n[0]--==1){
              m[0]=root.val;
              return;
         }
