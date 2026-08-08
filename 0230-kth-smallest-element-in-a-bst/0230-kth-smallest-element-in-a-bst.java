@@ -25,7 +25,6 @@ class Solution {
             return;
         }
         smallest(root.left,k,m,n);
-        System.out.print(root.val+" ");
         if(n[0]++==k-1){
              m[0]=root.val;
              return;
