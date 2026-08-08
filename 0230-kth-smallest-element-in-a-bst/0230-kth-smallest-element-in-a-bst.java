@@ -25,7 +25,7 @@ class Solution {
             return;
         }
         smallest(root.left,m,n);
-        if(n[0]--==1){
+        if(--n[0]==0){
              m[0]=root.val;
              return;
         }
