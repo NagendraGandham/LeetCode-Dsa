@@ -16,19 +16,19 @@
 class Solution {
     public int kthSmallest(TreeNode root, int k) {
         int[] num=new int[]{0};
-        smallest(root,k,num,new int[]{k});
+        smallest(root,num,new int[]{k});
         return num[0];
     }
 
-    void smallest(TreeNode root,int k,int[] m,int[] n){
+    void smallest(TreeNode root,int[] m,int[] n){
         if(root==null){
             return;
         }
-        smallest(root.left,k,m,n);
+        smallest(root.left,m,n);
         if(n[0]--==1){
              m[0]=root.val;
              return;
         }
-        smallest(root.right,k,m,n);
+        smallest(root.right,m,n);
     }
 }
