@@ -28,8 +28,8 @@ class Solution {
         System.out.print(root.val+" ");
         if(n[0]++==k-1){
              m[0]=root.val;
+             return;
         }
-    
         smallest(root.right,k,m,n);
     }
 }
