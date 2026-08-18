@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0136-single-number) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0509-fibonacci-number) |
