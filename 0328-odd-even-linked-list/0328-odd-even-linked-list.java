@@ -32,7 +32,7 @@ class Solution {
                 lastNode.next=firstNode;
                 lastNode=lastNode.next;
                 firstNode=firstNode.next;
-                lastNode.next=null; 
+              
             }
             else{
             prev=firstNode;
@@ -40,6 +40,7 @@ class Solution {
             }
             node++;
         }
+          lastNode.next=null; 
         return head;
     }
 }
