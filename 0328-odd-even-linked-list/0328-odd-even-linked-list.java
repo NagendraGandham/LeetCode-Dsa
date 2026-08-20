@@ -19,7 +19,6 @@ class Solution {
             lastNode=lastNode.next;
         }
         int node=1;
-        ListNode mark=lastNode;
         ListNode prev=null;
         int length=0;
         while(firstNode!=null){
