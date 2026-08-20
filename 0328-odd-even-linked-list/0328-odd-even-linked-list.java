@@ -15,32 +15,16 @@ class Solution {
         if(head==null || head.next==null ||head.next.next ==null ){
             return head;
         }
-        while(lastNode.next!=null){
-            lastNode=lastNode.next;
-        }
-        int node=1;
-        ListNode prev=null;
-        int length=0;
-        while(firstNode!=null){
-            length++;
-            firstNode=firstNode.next;
-        }
-        firstNode=head;
-        while(node<=length){
-            if(node%2==0){
-                prev.next=firstNode.next;
-                lastNode.next=firstNode;
-                lastNode=lastNode.next;
-                firstNode=firstNode.next;
-              
-            }
-            else{
-            prev=firstNode;
-            firstNode=firstNode.next;
-            }
-            node++;
-        }
-          lastNode.next=null; 
-        return head;
+       ListNode odd=head;
+       ListNode even=head.next;
+       ListNode e=even;
+       while(even!= null  && even.next != null ){
+        odd.next=even.next;
+        odd=odd.next;
+        even.next=odd.next;
+        even=even.next;
+       }
+       odd.next=e;
+       return head;
     }
 }
