@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0543-diameter-of-binary-tree) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0543-diameter-of-binary-tree) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0231-power-of-two) |
 ## Greedy
 |  |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
