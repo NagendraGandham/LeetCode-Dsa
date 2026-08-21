@@ -1,5 +1,12 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
+        if(nums.length<3){
+            Set<Integer> set=new HashSet<>();
+            for(int i:nums){
+                set.add(i);
+            }
+            return new ArrayList<>(set);
+        }
         int count1=1,count2=0;
         int ele1=nums[0];
         int ele2=nums[0];
