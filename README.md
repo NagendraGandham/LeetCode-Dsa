@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0496-next-greater-element-i) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0242-valid-anagram) |
 ## Binary Search Tree
 |  |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0229-majority-element-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -277,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0142-linked-list-cycle-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
