@@ -42,11 +42,11 @@ class Solution {
                 count2++;
             }
         }
-        if(count1 > Math.floor(nums.length/3)){
+        if(count1 > nums.length/3){
             list.add(ele1);
         }
 
-        if(count2 > Math.floor(nums.length/3)){
+        if(count2 > nums.length/3){
             list.add(ele2);
         }
 
