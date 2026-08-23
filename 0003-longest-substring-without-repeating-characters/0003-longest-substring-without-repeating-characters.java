@@ -7,7 +7,7 @@ class Solution {
             if(map.containsKey(s.charAt(i)) && map.get(s.charAt(i))>=left){
                left=map.get(s.charAt(i))+1;
             }
-        
+
                 map.put(s.charAt(i),i);
                 max=Math.max(max,i-left+1);
         }
