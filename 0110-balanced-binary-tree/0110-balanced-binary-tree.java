@@ -20,7 +20,7 @@ class Solution {
         }
         int left=maxh(root.left);
         int right=maxh(root.right);
-        if(right-left >= -1  && right-left <=1 ){
+        if(Math.abs(left-right)<=1 ){
             return isBalanced(root.left)&&isBalanced(root.right);
         }
         return false;
