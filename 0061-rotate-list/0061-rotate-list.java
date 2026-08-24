@@ -24,11 +24,10 @@ class Solution {
             return head;
         }
         temp.next=head;
-           System.out.println(length);
        
         temp=head;
         int count=1;
-        while(count<length-k && temp.next!=null){
+        while(count<length-k ){
             count++;
             temp=temp.next;
         }
