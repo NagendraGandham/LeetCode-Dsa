@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0735-asteroid-collision) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
