@@ -11,7 +11,8 @@ class Solution {
             int k=i+1;
             int j=nums.length-1;
             while(k<j){
-                if(nums[i]+nums[j]+nums[k]==0){
+                int sum=nums[i]+nums[j]+nums[k];
+                if(sum==0){
                     list.add(new ArrayList<>(List.of(nums[i],nums[j],nums[k])));
                     j--;
                     k++;
@@ -21,7 +22,7 @@ class Solution {
                     while(k<j && nums[k]==nums[k-1])
                     k++;
                 }
-                else if(nums[i]+nums[j]+nums[k]>0){
+                else if(sum>0){
                     j--;
                   
                 }
