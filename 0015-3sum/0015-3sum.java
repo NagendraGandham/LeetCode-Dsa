@@ -20,13 +20,9 @@ class Solution {
                 }
                 else if(nums[i]+nums[j]+nums[k]>0){
                     j--;
-                    while(k<j && nums[j]==nums[j+1]){
-                        j--;
-                    }
+                  
                 }
                 else{
-                    k++;
-                    while(k<j && nums[k]==nums[k-1])
                     k++;
                 }
             }
