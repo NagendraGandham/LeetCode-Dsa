@@ -4,7 +4,7 @@ class Solution {
         int i=0;
         int j=0;
         int max=0;
-        while(i<fruits.length && j<fruits.length){
+        while( j<fruits.length){
             map.put(fruits[j],map.getOrDefault(fruits[j],0)+1);
             System.out.println(map);
             while(map.size()>2){
