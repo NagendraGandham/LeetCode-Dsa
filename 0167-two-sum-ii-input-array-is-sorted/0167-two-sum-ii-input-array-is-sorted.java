@@ -8,7 +8,7 @@ class Solution {
             else if(numbers[i]+numbers[j]>target){
                 j--;
             }
-            else if(numbers[i]+numbers[j]<target){
+            else {
                 i++;
             }
         }
