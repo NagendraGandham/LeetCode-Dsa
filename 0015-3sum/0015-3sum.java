@@ -3,8 +3,8 @@ class Solution {
         List<List<Integer>> list=new ArrayList<>();
         Arrays.sort(nums);
         for(int i=0;i<nums.length-1;i++){
-            while(i>0 && i<nums.length-1 && nums[i]==nums[i-1])
-            i++;
+            if(i>0 && i<nums.length-1 && nums[i]==nums[i-1])
+            continue;
             int k=i+1;
             int j=nums.length-1;
             while(k<j){
