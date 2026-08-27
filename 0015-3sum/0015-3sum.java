@@ -5,6 +5,9 @@ class Solution {
         for(int i=0;i<nums.length-1;i++){
             if(i>0  && nums[i]==nums[i-1])
             continue;
+            if(nums[i]>0){
+                break;
+            }
             int k=i+1;
             int j=nums.length-1;
             while(k<j){
