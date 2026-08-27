@@ -6,9 +6,7 @@ class Solution {
         int max=0;
         while( j<fruits.length){
             map.put(fruits[j],map.getOrDefault(fruits[j],0)+1);
-            System.out.println(map);
             while(map.size()>2){
-               
                 if(map.get(fruits[i])==1){
                     map.remove(fruits[i]);
                 }
