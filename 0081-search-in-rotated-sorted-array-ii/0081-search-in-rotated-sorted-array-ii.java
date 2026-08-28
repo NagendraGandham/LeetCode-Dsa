@@ -8,7 +8,6 @@ class Solution {
                 return true;
             }
             else if(nums[mid]==nums[low]  && nums[mid]==nums[high]){
-                high--;
                 low++;
             }
            
