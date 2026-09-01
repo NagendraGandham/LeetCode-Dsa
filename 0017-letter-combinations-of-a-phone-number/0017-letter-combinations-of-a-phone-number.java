@@ -10,19 +10,21 @@ class Solution {
             '8',List.of('t','u','v'),
             '9',List.of('w','x','y','z')
          );
-         return solve(map,digits,new ArrayList<String>(),0,new StringBuilder());
+         List<String> ans=new ArrayList<String>();
+         solve(map,digits,ans,0,new StringBuilder());
+         return ans;
     }
-    List<String> solve(Map<Character,List<Character>> map,String digits,List<String> ans,int index,StringBuilder sb){
-        if(index>=digits.length()){
+    void solve(Map<Character,List<Character>> map,String digits,List<String> ans,int index,StringBuilder sb){
+        if(index==digits.length()){
             ans.add(sb.toString());
-            return ans;
+            return;
         }
         for(char ch:map.get(digits.charAt(index))){
             sb.append(ch);
             solve(map,digits,ans,index+1,sb);
             sb.deleteCharAt(sb.length()-1);
         }        
-        return ans;
+        return;
 
     }
 }
