@@ -26,7 +26,7 @@ class Solution {
     int find(int mid,int[] piles){
         int count=0;
         for(int i:piles){
-            count+=Math.ceil((double)i/mid);
+            count+=(double)(i+mid-1)/mid;
         }
         return count;
     }
