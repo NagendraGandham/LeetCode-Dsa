@@ -7,7 +7,7 @@ class Solution {
                 max=piles[i];
             }
         }
-        int low=0;
+        int low=1;
         int high=max;
         int ans=max;
         while(low<=high){
