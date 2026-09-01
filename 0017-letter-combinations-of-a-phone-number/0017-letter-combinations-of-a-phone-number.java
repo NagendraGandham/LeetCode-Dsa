@@ -1,23 +1,24 @@
 class Solution {
     public List<String> letterCombinations(String digits) {
-         Map<Integer,List<Character>> map=Map.of(
-            2,List.of('a','b','c'),
-            3,List.of('d','e','f'),
-            4,List.of('g','h','i'),
-            5,List.of('j','k','l'),
-            6,List.of('m','n','o'),
-            7,List.of('p','q','r','s'),
-            8,List.of('t','u','v'),
-            9,List.of('w','x','y','z')
+         Map<Character,List<Character>> map=Map.of(
+            '2',List.of('a','b','c'),
+            '3',List.of('d','e','f'),
+            '4',List.of('g','h','i'),
+            '5',List.of('j','k','l'),
+            '6',List.of('m','n','o'),
+            '7',List.of('p','q','r','s'),
+            '8',List.of('t','u','v'),
+            '9',List.of('w','x','y','z')
          );
+         
          return solve(map,digits,new ArrayList<String>(),0,new StringBuilder());
     }
-    List<String> solve(Map<Integer,List<Character>> map,String digits,List<String> ans,int index,StringBuilder sb){
+    List<String> solve(Map<Character,List<Character>> map,String digits,List<String> ans,int index,StringBuilder sb){
         if(index>=digits.length()){
             ans.add(sb.toString());
             return ans;
         }
-        for(char ch:map.get(digits.charAt(index)-'0')){
+        for(char ch:map.get(digits.charAt(index))){
             sb.append(ch);
             solve(map,digits,ans,index+1,sb);
             sb.deleteCharAt(sb.length()-1);
