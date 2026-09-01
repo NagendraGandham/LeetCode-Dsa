@@ -23,10 +23,10 @@ class Solution {
         return ans;
     }
 
-    int find(int mid,int[] piles){
-        int count=0;
+    double find(int mid,int[] piles){
+        double count=0;
         for(int i:piles){
-            count+=(double)(i+mid-1)/mid;
+            count+=(i+mid-1)/mid;
         }
         return count;
     }
