@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0735-asteroid-collision) |
+| [0875-koko-eating-bananas](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0930-binary-subarrays-with-sum) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
