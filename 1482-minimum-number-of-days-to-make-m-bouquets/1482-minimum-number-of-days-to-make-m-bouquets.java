@@ -37,6 +37,9 @@ class Solution {
             else{
                 b+=count/k;
                 count=0;
+                if(b>=m){
+                    return true;
+                }
             }
         }
         b+=count/k;
