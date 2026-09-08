@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0877-stone-game) |
+| [1248-count-number-of-nice-subarrays](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/1248-count-number-of-nice-subarrays) |
 ## Stack
 |  |
 | ------- |
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/1248-count-number-of-nice-subarrays) |
 ## String Matching
 |  |
 | ------- |
