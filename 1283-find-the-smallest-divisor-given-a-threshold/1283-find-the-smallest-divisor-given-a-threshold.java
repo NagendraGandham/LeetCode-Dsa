@@ -21,10 +21,10 @@ class Solution {
     return ans;
     }
 
-    public boolean isEnough(int[] nums,int t,int mid){
+    public boolean isEnough(int[] nums,int t,double mid){
         int sum=0;
         for(int i=0;i<nums.length;i++){
-            sum+=Math.ceil((double)nums[i]/mid);
+            sum+=Math.ceil(nums[i]/mid);
         }
         if(sum>t){
             return  false;
