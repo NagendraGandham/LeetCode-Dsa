@@ -26,9 +26,9 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             sum+=Math.ceil((double)nums[i]/mid);
         }
-        if(sum<=t){
-            return  true;
+        if(sum>t){
+            return  false;
         }
-        return false;
+        return true;
     }
 }
