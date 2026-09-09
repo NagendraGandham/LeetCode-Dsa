@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0904-fruit-into-baskets) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0451-sort-characters-by-frequency) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0451-sort-characters-by-frequency) |
 ## Simulation
 |  |
 | ------- |
@@ -359,4 +363,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
