@@ -6,7 +6,6 @@ class Solution {
             map.put(s.charAt(i),map.getOrDefault(s.charAt(i),0)+1);
         }
         pq.addAll(map.entrySet());
-        System.out.println(pq);
         StringBuilder sb=new StringBuilder();
         while(!pq.isEmpty()){
             Map.Entry<Character,Integer> m=pq.poll();
