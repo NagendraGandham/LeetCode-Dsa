@@ -7,14 +7,11 @@ class Solution {
             }
         }
         int ans=high;
-        int low =0;
+        int low =1;
         while(low<=high){
             int mid=low+(high-low)/2;
             if(isEnough(nums,threshold,mid)){
                 ans=mid;
-                if(ans==threshold){
-                    break;
-                }
                 high=mid-1;
             }
             else{
