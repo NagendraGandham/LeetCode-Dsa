@@ -1,5 +1,8 @@
 class Solution {
     public String frequencySort(String s) {
+        if(s.length()<3){
+            return s;
+        }
         Map<Character,Integer> map=new HashMap<>();
         PriorityQueue<Map.Entry<Character,Integer>> pq=new PriorityQueue<>((s1,s2)-> s2.getValue()-s1.getValue());
         for(int i=0;i<s.length();i++){
