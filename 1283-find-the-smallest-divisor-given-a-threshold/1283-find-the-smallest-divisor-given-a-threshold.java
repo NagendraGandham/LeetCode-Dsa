@@ -12,6 +12,9 @@ class Solution {
             int mid=low+(high-low)/2;
             if(isEnough(nums,threshold,mid)){
                 ans=mid;
+                if(ans==threshold){
+                    break;
+                }
                 high=mid-1;
             }
             else{
