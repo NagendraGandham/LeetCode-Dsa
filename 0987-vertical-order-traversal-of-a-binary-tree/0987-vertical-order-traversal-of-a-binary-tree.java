@@ -28,10 +28,10 @@ class Solution {
         List<List<Integer>> list=new ArrayList<>();
         TreeMap<Integer,PriorityQueue<Node>> map=new TreeMap<>((s1,s2)->s1-s2);
         mapping(map,root,0,0);
-       for(Map.Entry<Integer,PriorityQueue<Node>> m:map.entrySet()){
+       for(PriorityQueue<Node> pq:map.values()){
         List<Integer> l=new ArrayList<>();
-            while(!m.getValue().isEmpty()){
-            l.add(m.getValue().poll().val);
+            while(!pq.isEmpty()){
+            l.add(pq.poll().val);
        }
        list.add(l);
        }
