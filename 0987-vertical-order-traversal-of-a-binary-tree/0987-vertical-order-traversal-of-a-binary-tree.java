@@ -28,7 +28,6 @@ class Solution {
         List<List<Integer>> list=new ArrayList<>();
         TreeMap<Integer,PriorityQueue<Node>> map=new TreeMap<>((s1,s2)->s1-s2);
         mapping(map,root,0,0);
-        System.out.println(map);
        for(Map.Entry<Integer,PriorityQueue<Node>> m:map.entrySet()){
         List<Integer> l=new ArrayList<>();
             while(!m.getValue().isEmpty()){
