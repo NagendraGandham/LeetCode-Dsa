@@ -16,22 +16,20 @@
 class Solution {
     public boolean findTarget(TreeNode root, int k) {
         HashSet<Integer> set=new HashSet<>();
-        return traversal(set,root,k);
+        boolean[] a=new boolean[1];
+         traversal(set,root,k,a);
+        return a[0];
     }
-    boolean traversal(HashSet<Integer> set,TreeNode root,int k){
+    void traversal(HashSet<Integer> set,TreeNode root,int k,boolean[] a){
         if(root==null){
-            return false;
+            return;
         }
         if(set.contains(k-root.val)){
-            return true;
+            a[0]=true;
+            return ;
         }
         set.add(root.val);
-        if(traversal(set,root.left,k)){
-            return true;
-        }
-        if(traversal(set,root.right,k)){
-            return true;
-        }
-        return false;
+        traversal(set,root.left,k,a);
+        traversal(set,root.right,k,a);
     }
 }
