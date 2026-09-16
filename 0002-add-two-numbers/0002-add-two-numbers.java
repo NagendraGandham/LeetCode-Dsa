@@ -26,7 +26,7 @@ class Solution {
             sum+=carry;
             carry=0;
             if(sum>9){
-                carry=1;
+                carry=sum/10;
                 sum=sum%10;
             }
             curr.next=new ListNode(sum);
