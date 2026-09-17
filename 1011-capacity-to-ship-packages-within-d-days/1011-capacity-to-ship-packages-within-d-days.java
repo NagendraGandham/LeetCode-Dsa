@@ -12,12 +12,12 @@ class Solution {
         while(low<=high){
             int mid=low+(high-low)/2;
             if(satisfy(mid,weights,days)){
-                System.out.println(low+" "+mid+" "+high+"--");
+           
                 ans=mid;
                 high=mid-1;
             }
             else{
-                System.out.println(low+" "+mid+" "+high);
+        
                 low=mid+1;
             }
         }
