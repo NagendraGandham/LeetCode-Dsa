@@ -14,16 +14,13 @@ class Solution {
         }
 
         int i=0;
-        int j=n-k;
         int windowSum=totalSum-max;
-        while(j<n-1){
-            windowSum=windowSum-cardPoints[i];
+        max=windowSum;
+        for(int j=n-k;j<n;j++){
+            windowSum=windowSum-cardPoints[i]+cardPoints[j];
+            max=Math.min(max,windowSum);
             i++;
-            j++;
-            windowSum=windowSum+cardPoints[j];
-            max=Math.max(max,totalSum-windowSum);
-            
         }
-        return max;
+        return totalSum-max;
 }
 }
