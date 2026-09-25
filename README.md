@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0540-single-element-in-a-sorted-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0496-next-greater-element-i) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
@@ -353,11 +356,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0451-sort-characters-by-frequency) |
 ## Simulation
 |  |
@@ -407,10 +412,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0451-sort-characters-by-frequency) |
 ## Database
 |  |
@@ -424,4 +431,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/NagendraGandham/LeetCode-Dsa/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
