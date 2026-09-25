@@ -17,7 +17,6 @@ class Solution {
             queue.offer(new frequency(entry.getKey(),entry.getValue()));
         }
         int[] arr=new int[k];
-        System.out.println(map);
         while(k--!=0){
             arr[arr.length-k-1]=queue.poll().num;
         }
