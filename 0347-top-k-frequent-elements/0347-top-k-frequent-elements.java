@@ -12,13 +12,17 @@ class Solution {
         for(int i:nums){
             map.put(i,map.getOrDefault(i,0)+1);
         }
-       PriorityQueue<frequency> queue=new PriorityQueue<>((s1,s2)-> s2.freq-s1.freq);
+       PriorityQueue<frequency> queue=new PriorityQueue<>((s1,s2)-> s1.freq-s2.freq);
         for(Map.Entry<Integer,Integer> entry:map.entrySet()){
             queue.offer(new frequency(entry.getKey(),entry.getValue()));
+            if(queue.size()>k){
+                queue.poll();
+            }
         }
         int[] arr=new int[k];
-        while(k--!=0){
-            arr[arr.length-k-1]=queue.poll().num;
+        int i=0;
+        while(!queue.isEmpty()){
+            arr[i++]=queue.poll().num;
         }
         return arr;
     }
