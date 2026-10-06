@@ -15,9 +15,7 @@
  */
 class Solution {
     public void recoverTree(TreeNode root) {
-        if(root==null){
-            return;
-        }
+       
         TreeNode start=null;
         TreeNode middle=null;
         TreeNode last=null;
