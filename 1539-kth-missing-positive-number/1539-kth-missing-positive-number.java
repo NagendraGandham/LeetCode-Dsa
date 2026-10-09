@@ -4,9 +4,7 @@ class Solution {
       int j=0,i,ele=1;
       positive=Math.abs(arr[arr.length-1]-arr.length);
       System.out.println(positive);
-      if(positive==0){
-        return arr[arr.length-1]+k;
-      }
+      
     if(positive<k){
         return arr[arr.length-1]+(k-positive);
       }
