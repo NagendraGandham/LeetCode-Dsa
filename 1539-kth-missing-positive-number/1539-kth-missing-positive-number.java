@@ -7,6 +7,9 @@ class Solution {
       if(positive==0){
         return arr[arr.length-1]+k;
       }
+    if(positive<k){
+        return arr[arr.length-1]+(k-positive);
+      }
       for(i=1;i<arr[arr.length-1];i++){
         if(arr[j]==i){
             j++;
@@ -20,9 +23,7 @@ class Solution {
             }
         }
       }
-      if(count!=k){
-        return arr[arr.length-1]+(k-positive);
-      }
+    
       return ele;
     }
 }
