@@ -26,7 +26,7 @@ class Solution {
         }
         if(set.contains(k-root.val)){
             a[0]=true;
-            return ;
+            return;
         }
         set.add(root.val);
         traversal(set,root.left,k,a);
